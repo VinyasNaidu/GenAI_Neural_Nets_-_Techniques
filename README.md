@@ -44,9 +44,3 @@ This repository is a one-stop shop for state-of-the-art AI techniques, including
 - **AI Enthusiasts**: Dive into the exciting world of generative AI and beyond.
 
 ---
-
-## **Getting Started**
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/Generative-AI-Repo.git
